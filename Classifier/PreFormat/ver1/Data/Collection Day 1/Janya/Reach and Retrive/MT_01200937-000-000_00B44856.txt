@@ -1,0 +1,5 @@
+// Start Time: Unknown
+// Update Rate: 100.0Hz
+// Filter Profile: human (46.1)
+// Firmware Version: 4.3.5
+PacketCounter	SampleTimeFine	Year	Month	Day	Second	UTC_Nano	UTC_Year	UTC_Month	UTC_Day	UTC_Hour	UTC_Minute	UTC_Second	UTC_Valid	Acc_X	Acc_Y	Acc_Z	FreeAcc_X	FreeAcc_Y	FreeAcc_Z	Gyr_X	Gyr_Y	Gyr_Z	VelInc_X	VelInc_Y	VelInc_Z	OriInc_q0	OriInc_q1	OriInc_q2	OriInc_q3	Roll	Pitch	Yaw
